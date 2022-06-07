@@ -19,15 +19,31 @@ hr{
     margin-right: 21px;
 }
 
-.menu p{
-    width: 98%;
+.menu ul{
+    width: 100%;
+    list-style:none;
+    display: inline-block;
+    margin:0px; 
+    padding:0px; 
+}
+
+.menu ul li{
     background-color: rgb(255, 253, 253);
     padding: 10px;
     font-size: 20px;
     color: rgba(2, 103, 0, 0.892);
-    text-decoration: none;
     text-align: right;
     word-spacing: 40px;
+    float:right; 
+    padding-left:15px;
+    padding-right:50px;
+    border-right:1px solid #FFFFFF;
+}
+
+ul li a{
+    text-decoration: none;
+    color: rgba(2, 103, 0, 0.892);
+   
 }
 
 .principal{
