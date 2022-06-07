@@ -42,8 +42,7 @@ hr{
 
 ul li a{
     text-decoration: none;
-    color: rgba(2, 103, 0, 0.892);
-   
+    color: rgba(2, 103, 0, 0.892);  
 }
 
 .principal{
@@ -61,8 +60,8 @@ ul li a{
     align-items:flex-start;
     padding-top: 30px;
     padding-left: 30px;
-
 }
+
 .prim p{
     color: white;
     font-size: 50px;
